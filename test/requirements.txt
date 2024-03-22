@@ -9,3 +9,7 @@ sktime
 ipykernel
 jupyter
 jupyter_contrib_nbextensions
+tensorflow
+lightgbm
+xgboost
+threadpoolctl
