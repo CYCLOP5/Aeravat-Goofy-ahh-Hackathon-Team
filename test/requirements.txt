@@ -1,0 +1,11 @@
+ngboost
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tsfresh
+sktime
+ipykernel
+jupyter
+jupyter_contrib_nbextensions
